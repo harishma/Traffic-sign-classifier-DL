@@ -115,13 +115,13 @@ parameter​ ​was​ ​not​ ​very​ ​helpful​ ​with​ ​this​ 
 These​ ​are​ ​the​ ​images​ ​I​ ​chose​ ​for​ ​testing.​ ​All​ ​of​ ​these​ ​images​ ​are​ ​challenging​ ​because​ ​of​ ​the
 presence​ ​varying​ ​background.
 
-![Road Work](test_images/RoadWork.png)
+![Road Work](test_images/RoadWork.jpg)
 
 ![Yield](test_images/yield.png)
 
-![SpeedLimit_60](test_images/SpeedLimit_60.png)
+![SpeedLimit_60](test_images/SpeedLimit_60.jpg)
 
-![No Entry](test_images/no_entry.png)
+![No Entry](test_images/no_entry.jpg)
 
 ![Children](test_images/children.png)
 
