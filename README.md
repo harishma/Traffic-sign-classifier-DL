@@ -117,13 +117,13 @@ presence​ ​varying​ ​background.
 
 ![Road Work](test_images/RoadWork.jpg)
 
-![Yield](test_images/yield.png)
+![Yield](test_images/yield.jpg)
 
 ![SpeedLimit_60](test_images/SpeedLimit_60.jpg)
 
 ![No Entry](test_images/no_entry.jpg)
 
-![Children](test_images/children.png)
+![Children](test_images/children.jpg)
 
 The​ ​model​ ​was​ ​only​ ​able​ ​to​ ​correctly​ ​guess​ ​2 ​​of​ ​the​ ​5 ​​images.​ ​That​ ​gives​ ​it​ ​a​ ​accuracy​ ​of​ ​40
 percent.​ ​The​ ​results​ ​indicated​ ​that​ ​the​ ​network​ ​did​ ​not​ ​generalize​ ​properly.
